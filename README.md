@@ -1,2 +1,2 @@
 # BreakTheIdeas-SMP
-This is the Main repository.
+This is the GitHub-Page from the died BreakTheIdeas-SMP-Server.
